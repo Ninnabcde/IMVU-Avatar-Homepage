@@ -1,0 +1,22 @@
+<style type="text/css"> 
+#avBigPic { 
+margin-left:40%; 
+width:100%; 
+} 
+#about_me_text_contents, #aboutme_conditional_information_div { 
+margin-left:30%; 
+width:100%; 
+text-align:center; 
+} 
+
+
+#aboutme_panel { width:920px !important;   } 
+#rightColumn { display:none !important;   } 
+
+.paneltitle, .panelmenu { display:none !important; } 
+
+* { 
+font-family: courier; 
+} 
+
+</style>
