@@ -1,0 +1,8 @@
+#Last Visit Panel
+<style type="text/css"> 
+#visitors_panel { width:920px !important;   } 
+#rightColumn { display:none !important;   } 
+</style>
+
+#it's for music in the homepage
+<div class="gaf210imvustylez_youtubebox" style="width:1px;height:1px;overflow:hidden"><iframe allow="autoplay" width="300" height="300" src="https://www.youtube.com/embed/1YRW1QRKTBc?autoplay=1&loop=1&playlist=1YRW1QRKTBc" frameborder="0" allowfullscreen></iframe><!--Youtube player code generated @ http://gaf210.imvustylez.net --></div>
